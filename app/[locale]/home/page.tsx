@@ -21,13 +21,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 
   return {
-    metadataBase: new URL("https://cuberack.com"),
+    metadataBase: new URL("https://cuberack.callumcollins.com"),
     title: t.metaTitle,
     description: t.metaDescription,
     openGraph: {
       title: t.metaTitle,
       description: t.metaDescription,
-      url: "https://cuberack.com",
+      url: "https://cuberack.callumcollins.com",
       siteName: "Cuberack",
       images: [
         {
