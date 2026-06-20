@@ -1,0 +1,67 @@
+{
+  "metaTitle": "Cuberack - Accueil",
+  "metaDescription": "Nous sommes Cuberack, un fournisseur premium de serveurs VPS et dédiés, spécialisé dans les serveurs haute performance alimentés par AMD Ryzen.",
+  "heroTitleParts": [
+    "Un hébergement conçu pour les communautés qui ont ",
+    "le matériel partagé",
+    " dépassé"
+  ],
+  "heroDescriptionParts": [
+    "Arrêtez de materner votre infrastructure. Commencez à déployer des produits ou des serveurs de jeux qui sont réellement stables.",
+    "Nous nous occupons du gros travail, vous récoltez la gloire."
+  ],
+  "ctaButton": "Déployez votre serveur maintenant !",
+  "spoiler": "Spoiler :",
+  "spoilerText": "C'est vraiment rapide",
+  "cookieTitle": "Nous utilisons des cookies",
+  "cookieDescription": "Nous utilisons des cookies pour améliorer votre expérience sur notre site web. En continuant à naviguer, vous acceptez notre utilisation des cookies.",
+  "cookieAccept": "Accepter",
+  "cookieDecline": "Refuser",
+  "navVds": "VDS",
+  "navBareMetal": "Serveur Dédié",
+  "navNetwork": "Notre Réseau",
+  "navCaseStudies": "Études de Cas",
+  "navAbout": "À Propos",
+  "navLogin": "Connexion",
+  "navBillingRedirect": "Démarrer",
+  "featuresTitle": "Pourquoi nous choisir",
+  "featuresSubtitle": "Conçu pour les communautés et les développeurs intransigeants qui exigent des performances absolues.",
+  "featureCards": [
+    {
+      "icon": "perf",
+      "label": "PERFORMANCE",
+      "title": "Seuls les plus rapides survivent",
+      "desc": "Nous sommes obsédés par chaque composant pour que vous n'ayez pas à l'être. Le résultat ? Une puissance brute AMD Ryzen sans bridage."
+    },
+    {
+      "icon": "net",
+      "label": "RÉSEAU",
+      "title": "Bâti pour ne jamais faillir",
+      "desc": "Des voies de transit premium redondantes et un réseau central haute capacité qui ignore les congestions. Vos paquets prennent la voie rapide."
+    },
+    {
+      "icon": "sec",
+      "label": "SÉCURITÉ",
+      "title": "Les attaques frappent. Vous ne remarquez rien.",
+      "desc": "Atténuation DDoS multicouche de classe entreprise qui ne fait qu'une bouchée des attaques massives. Dormez tranquille pendant que nous défendons votre disponibilité."
+    },
+    {
+      "icon": "supp",
+      "label": "SUPPORT",
+      "title": "Des réponses si rapides que ça en devient injuste",
+      "desc": "Pas de chatbots IA ni de transferts sans fin. Échangez instantanément avec des experts techniques qui maîtrisent l'infrastructure serveur."
+    }
+  ],
+  "perfLabel": "PERFORMANCE",
+  "perfTitle": "Seuls les plus rapides survivent",
+  "perfDesc": "Nous sommes obsédés par chaque composant pour que vous n'ayez pas à l'être. Le résultat ? Une puissance brute AMD Ryzen sans bridage.",
+  "netLabel": "RÉSEAU",
+  "netTitle": "Bâti pour ne jamais faillir",
+  "netDesc": "Des voies de transit premium redondantes et un réseau central haute capacité qui ignore les congestions. Vos paquets prennent la voie rapide.",
+  "secLabel": "SÉCURITÉ",
+  "secTitle": "Les attaques frappent. Vous ne remarquez rien.",
+  "secDesc": "Atténuation DDoS multicouche de classe entreprise qui ne fait qu'une bouchée des attaques massives. Dormez tranquille pendant que nous défendons votre disponibilité.",
+  "suppLabel": "SUPPORT",
+  "suppTitle": "Des réponses si rapides que ça en devient injuste",
+  "suppDesc": "Pas de chatbots IA ni de transferts sans fin. Échangez instantanément avec des experts techniques qui maîtrisent l'infrastructure serveur."
+}

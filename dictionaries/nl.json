@@ -1,0 +1,68 @@
+{
+  "metaTitle": "Cuberack - Home",
+  "metaDescription": "Wij zijn Cuberack, een premium aanbieder van VPS- en dedicated servers, gespecialiseerd in krachtige AMD Ryzen-aangedreven servers.",
+  "heroTitleParts": [
+    "Hosting gebouwd voor communities die ",
+    "gedeelde hardware",
+    " zijn ontgroeid."
+  ],
+  "heroDescriptionParts": [
+    "Stop met het babysitten van je infrastructuur. Begin met het lanceren van producten of gameservers die wél stabiel zijn.",
+    "Wij doen het zware werk, jij krijgt de eer."
+  ],
+  "ctaButton": "Deploieer je server nu!",
+  "spoiler": "Spoiler:",
+  "spoilerText": "Het is echt snel",
+  "cookieTitle": "We gebruiken cookies",
+  "cookieDescription": "We gebruiken cookies om uw ervaring op onze website te verbeteren. Door verder te bladeren, accepteert u ons gebruik van cookies.",
+  "cookieAccept": "Accepteren",
+  "cookieDecline": "Weigeren",
+  "navVds": "VDS",
+  "navBareMetal": "Bare Metal",
+  "navNetwork": "Ons Netwerk",
+  "navCaseStudies": "Case Studies",
+  "navAbout": "Over ons",
+  "navLogin": "Inloggen",
+  "navBillingRedirect": "Aan de slag",
+  "featuresTitle": "Waarom wij de juiste keuze zijn",
+  "featuresSubtitle": "Ontworpen voor compromisloze communities en ontwikkelaars die absolute prestaties eisen.",
+  "featureCards": [
+    {
+      "icon": "perf",
+      "label": "PRESTATIES",
+      "title": "Alleen de snelsten overleven",
+      "desc": "Wij zijn geobsedeerd door elk component zodat jij dat niet hoeft te zijn. Het resultaat? Pure, onbeperkte AMD Ryzen kracht."
+    },
+    {
+      "icon": "net",
+      "label": "NETWERK",
+      "title": "Gebouwd om nooit uit te vallen",
+      "desc": "Redundante premium transitpaden en een backbone met hoge capaciteit die congestie lachend overwint. Jouw pakketjes nemen de snelle rijstrook."
+    },
+    {
+      "icon": "sec",
+      "label": "BEVEILIGING",
+      "title": "Aanvallen vinden plaats. Je merkt er niks van.",
+      "desc": "Multi-laags DDoS-beveiliging van enterprise-klasse die enorme aanvallen als ontbijt eet. Slaap gerust terwijl wij je uptime bewaken."
+    },
+    {
+      "icon": "supp",
+      "label": "SUPPORT",
+      "title": "Antwoorden zo snel dat het oneerlijk voelt",
+      "desc": "Geen AI-chatbots of eindeloos doorverwijzen. Maak direct verbinding met technische experts die verstand hebben van serverinfrastructuur."
+    }
+  ],
+  "perfLabel": "PRESTATIES",
+  "perfTitle": "Alleen de snelsten overleven",
+  "perfDesc": "Wij zijn geobsedeerd door elk component zodat jij dat niet hoeft te zijn. Het resultaat? Pure, onbeperkte AMD Ryzen kracht.",
+  "netLabel": "NETWERK",
+  "netTitle": "Gebouwd om nooit uit te vallen",
+  "netDesc": "Redundante premium transitpaden en een backbone met hoge capaciteit die congestie lachend overwint. Jouw pakketjes nemen de snelle rijstrook.",
+  "secLabel": "BEVEILIGING",
+  "secTitle": "Aanvallen vinden plaats. Je merkt er niks van.",
+  "secDesc": "Multi-laags DDoS-beveiliging van enterprise-klasse die enorme aanvallen als ontbijt eet. Slaap gerust terwijl wij je uptime bewaken.",
+  "suppLabel": "SUPPORT",
+  "suppTitle": "Antwoorden zo snel dat het oneerlijk voelt",
+  "suppDesc": "Geen AI-chatbots of eindeloos doorverwijzen. Maak direct verbinding met technische experts die verstand hebben van serverinfrastructuur."
+
+}

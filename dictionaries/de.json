@@ -1,0 +1,67 @@
+{
+  "metaTitle": "Cuberack - Home",
+  "metaDescription": "Wij zijn Cuberack, een premium aanbieder van VPS- en dedicated servers, gespecialiseerd in krachtige AMD Ryzen-aangedreven servers.",
+  "heroTitleParts": [
+    "Hosting gebouwd voor communities die ",
+    "gedeelde hardware",
+    " zijn ontgroeid."
+  ],
+  "heroDescriptionParts": [
+    "Stop met het babysitten van je infrastructuur. Begin met het lanceren van producten of gameservers die wél stabiel zijn.",
+    "Wij doen het zware werk, jij krijgt de eer."
+  ],
+  "ctaButton": "Deploieer je server nu!",
+  "spoiler": "Spoiler:",
+  "spoilerText": "Het is echt snel",
+  "cookieTitle": "Wir verwenden Cookies",
+  "cookieDescription": "Wir verwenden Cookies, um Ihre Erfahrung auf unserer Website zu verbessern. Wenn Sie weiter surfen, akzeptieren Sie unsere Verwendung von Cookies.",
+  "cookieAccept": "Akzeptieren",
+  "cookieDecline": "Ablehnen",
+  "navVds": "VDS",
+  "navBareMetal": "Dedicated Server",
+  "navNetwork": "Unser Netzwerk",
+  "navCaseStudies": "Fallstudien",
+  "navAbout": "Über uns",
+  "navLogin": "Einloggen",
+  "navBillingRedirect": "Loslegen",
+  "featuresTitle": "Warum wir die richtige Wahl sind",
+  "featuresSubtitle": "Entwickelt für kompromisslose Communities und Entwickler, die absolute Leistung verlangen.",
+  "featureCards": [
+    {
+      "icon": "perf",
+      "label": "LEISTUNG",
+      "title": "Nur die Schnellsten überleben",
+      "desc": "Wir optimieren jede Komponente, damit Sie es nicht tun müssen. Das Ergebnis? Ungezähmte AMD Ryzen Power."
+    },
+    {
+      "icon": "net",
+      "label": "NETZWERK",
+      "title": "Gebaut, um niemals auszufallen",
+      "desc": "Redundante Premium-Transitpfade und ein hochkapazitiver Backbone, der Staus ignoriert. Ihre Pakete nehmen die Überholspur."
+    },
+    {
+      "icon": "sec",
+      "label": "SICHERHEIT",
+      "title": "Angriffe erfolgen. Sie merken nichts davon.",
+      "desc": "Mehrschichtiger DDoS-Schutz der Enterprise-Klasse, der massive Angriffe mühelos abwehrt. Schlafen Sie ruhig, während wir Ihre Betriebszeit sichern."
+    },
+    {
+      "icon": "supp",
+      "label": "SUPPORT",
+      "title": "Antworten so schnell, dass es unfair wirkt",
+      "desc": "Keine KI-Chatbots oder endloses Weiterleiten. Sprechen Sie sofort mit technischen Experten, die sich mit Serverinfrastruktur auskennen."
+    }
+  ],
+  "perfLabel": "LEISTUNG",
+  "perfTitle": "Nur die Schnellsten überleben",
+  "perfDesc": "Wir optimieren jede Komponente, damit Sie es nicht tun müssen. Das Ergebnis? Ungezähmte AMD Ryzen Power.",
+  "netLabel": "NETZWERK",
+  "netTitle": "Gebaut, um niemals auszufallen",
+  "netDesc": "Redundante Premium-Transitpfade und ein hochkapazitiver Backbone, der Staus ignoriert. Ihre Pakete nehmen die Überholspur.",
+  "secLabel": "SICHERHEIT",
+  "secTitle": "Angriffe erfolgen. Sie merken nichts davon.",
+  "secDesc": "Mehrschichtiger DDoS-Schutz der Enterprise-Klasse, der massive Angriffe mühelos abwehrt. Schlafen Sie ruhig, während wir Ihre Betriebszeit sichern.",
+  "suppLabel": "SUPPORT",
+  "suppTitle": "Antworten so schnell, dass es unfair wirkt",
+  "suppDesc": "Keine KI-Chatbots oder endloses Weiterleiten. Sprechen Sie sofort mit technischen Experten, die sich mit Serverinfrastruktur auskennen."
+}

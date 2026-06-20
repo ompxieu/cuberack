@@ -1,0 +1,55 @@
+{
+  "metaTitle": "Cuberack - Home",
+  "metaDescription": "We are Cuberack, a premium VPS and dedicated server provider specializing in high-performance AMD Ryzen-powered servers.",
+  "heroTitleParts": [
+    "Hosting built for communities which ",
+    "shared hardware.",
+    " outgrew"
+  ],
+  "heroDescriptionParts": [
+    "Stop babysitting infrastructure. Start shipping products or gaming servers which are actually stable.",
+    "We handle the heavy lifting, you take the glory in the work."
+  ],
+  "ctaButton": "Deploy your server now!",
+  "spoiler": "Spoiler:",
+  "spoilerText": "It's really fast.",
+  "cookieTitle": "We utilise cookies",
+  "cookieDescription": "We use cookies to improve your experience on our website. By continuing to browse, you accept our use of cookies.",
+  "cookieAccept": "Accept",
+  "cookieDecline": "Decline",
+  "navVds": "VDS",
+  "navBareMetal": "Bare Metal",
+  "navNetwork": "Our Network",
+  "navCaseStudies": "Case Studies",
+  "navAbout": "About",
+  "navLogin": "Log in",
+  "navBillingRedirect": "Billing Portal",
+  "featuresTitle": "Why We're The Move",
+  "featuresSubtitle": "Engineered for uncompromising communities and developers who demand absolute performance.",
+  "featureCards": [
+    {
+      "icon": "perf",
+      "label": "PERFORMANCE",
+      "title": "Only the fastest survive",
+      "desc": "We obsess over every component so you don't have to. The result? Raw, unthrottled AMD Ryzen power."
+    },
+    {
+      "icon": "net",
+      "label": "NETWORK",
+      "title": "Built to never drop",
+      "desc": "Redundant premium transit paths and a high-capacity backbone that laughs at congestion. Your packets take the fast lane."
+    },
+    {
+      "icon": "sec",
+      "label": "SECURITY",
+      "title": "Attacks hit. You don't notice.",
+      "desc": "Enterprise-grade multi-layer DDoS mitigation that eats massive attacks for breakfast. Sleep easy while we defend your uptime."
+    },
+    {
+      "icon": "supp",
+      "label": "SUPPORT",
+      "title": "Replies so fast it feels unfair",
+      "desc": "No AI chatbots or endless runarounds. Connect instantly with technical experts who actually know server infrastructure."
+    }
+  ]
+}

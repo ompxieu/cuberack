@@ -1,0 +1,65 @@
+{
+  "metaTitle": "Cuberack - Inicio",
+  "metaDescription": "Somos Cuberack, un proveedor premium de servidores VPS y dedicados, especializado en servidores de alto rendimiento equipados con AMD Ryzen.",
+  "heroTitleParts": [
+    "Hosting creado para comunidades que ",
+    "el hardware compartido",
+    " dejaron atrás."
+  ],
+  "heroDescriptionParts": [
+    "Deja de cuidar la infraestructura. Empieza a lanzar productos o servidores de juegos que sean realmente estables.",
+    "Nosotros nos encargamos del trabajo pesado, tú te llevas la gloria."
+  ],
+  "ctaButton": "¡Despliega tu servidor ahora!",
+  "spoiler": "Spoiler:",
+  "spoilerText": "Es realmente rápido",
+  "cookieTitle": "Utilizamos cookies",
+  "cookieDescription": "Utilizamos cookies para mejorar tu experiencia en nuestro sitio web. Al continuar navegando, aceptas nuestro uso de cookies.",
+  "cookieAccept": "Aceptar",
+  "cookieDecline": "Rechazar",
+  "navVds": "VDS",
+  "navBareMetal": "Servidor Dedicado",
+  "navNetwork": "Nuestra Red",
+  "navCaseStudies": "Casos de Éxito",
+  "navAbout": "Acerca de",
+  "navLogin": "Iniciar Sesión",
+  "navBillingRedirect": "Comenzar",
+  "featuresTitle": "Por qué somos tu mejor opción",
+  "featuresSubtitle": "Diseñado para comunidades y desarrolladores intransigentes que exigen un rendimiento absoluto.",
+  "featureCards": [
+    {
+      "icon": "perf",
+      "label": "RENDIMIENTO",
+      "title": "Solo los más rápidos sobreviven",
+      "desc": "Nos obsesionamos con cada componente para que tú no tengas que hacerlo. ¿El resultado? Potencia bruta de AMD Ryzen sin restricciones."
+    },
+    {
+      "icon": "net",
+      "label": "RED",
+      "title": "Construido para no caer jamás",
+      "desc": "Rutas de tránsito premium redundantes y una red troncal de alta capacidad que ignora la congestión. Tus paquetes van por el carril rápido."
+    },
+    {
+      "icon": "sec",
+      "label": "SEGURIDAD",
+      "title": "Las de ataques llegan. Ni te das cuenta.",
+      "desc": "Mitigación DDoS multicapa de nivel empresarial que devora ataques masivos en el desayuno. Duerme tranquilo mientras defendemos tu tiempo de actividad."
+    },
+    {
+      "icon": "supp",
+      "label": "SOPORTE",
+      "title": "Respuestas tan rápidas que parece injusto",
+      "desc": "Sin chatbots de IA ni desvíos interminables. Conéctate al instante con expertos técnicos que realmente entienden de infraestructura de servidores."
+    }
+  ],
+  "netLabel": "RED",
+  "netTitle": "Construido para no caer jamás",
+  "netDesc": "Rutas de tránsito premium redundantes y una red troncal de alta capacidad que ignora la congestión. Tus paquetes van por el carril rápido.",
+  "secLabel": "SEGURIDAD",
+  "secTitle": "Las de ataques llegan. Ni te das cuenta.",
+  "secDesc": "Mitigación DDoS multicapa de nivel empresarial que devora ataques masivos en el desayuno. Duerme tranquilo mientras defendemos tu tiempo de actividad.",
+  "suppLabel": "SOPORTE",
+  "suppTitle": "Respuestas tan rápidas que parece injusto",
+  "suppDesc": "Sin chatbots de IA ni desvíos interminables. Conéctate al instante con expertos técnicos que realmente entienden de infraestructura de servidores."
+
+}
