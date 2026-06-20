@@ -31,7 +31,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       siteName: "Cuberack",
       images: [
         {
-          url: "/og-image.png",
+          url: "/og-imgs/og1.png",
           width: 1200,
           height: 630,
           alt: "Cuberack",
@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       card: "summary_large_image",
       title: t.metaTitle,
       description: t.metaDescription,
-      images: ["/og-image.png"],
+      images: ["/og-imgs/og1.png"],
     },
   };
 }
